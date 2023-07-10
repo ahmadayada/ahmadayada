@@ -1,10 +1,16 @@
 
+- 👋 Hi, I’m @ahmadayada (Ahmad AYADA)
+- 👀 I’m interested in : Software development , Mobile & Web apps development, System devlopplement etc...
+- 💞️ I’m looking to collaborate on Big Companies work in software development
+
+---
+
 # Ahmad AYADA
 
 **Full Stack Developer | Software Engineer**
 
-📧 Email: ****@**.com  
-📞 Phone: +33********
+📧 Email: ahmad.ayada@gmail.com  
+📞 Phone: +33769506158  
 🏠 Address: 190 Rue Frédéric Mistral, 06560 Valbonne
 
 ---
@@ -60,13 +66,25 @@ Languages:
 - Developed a Python application for indexing XML documents and implementing retrieval algorithms.
 - Implemented LTN, LTC, and BM25 algorithms for efficient information retrieval.
 
+### École des Mines - Saint Étienne - Project (01/2021 - 04/2021)
+- Collaborated with a team on developing a Java-based P2P file sharing app.
+- Implemented the protocol for message exchange between peers and ensured secure connections.
+- Gained knowledge in P2P systems, network programming, and GUI development.
+
+### École des Mines & Jean Monnet University - Saint Étienne - Project (09/2021 - 04/2022)
+- Developed HealDroid, a user-friendly hospital center application.
+- Backend development using Java Spring Boot, frontend development with React, and Android application development with React Native.
+- Implemented features for patient registration, appointment scheduling, user search, and doctor modules.
+- Integrated RFID for clocking, ensuring efficient personnel tracking and access control.
+
+---
+
+
 <!---
 ahmadayada/ahmadayada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- 👋 Hi, I’m @ahmadayada (Ahmad AYADA)
-- 👀 I’m interested in : Software development , Mobile & Web apps development, System devlopplement etc...
-- 💞️ I’m looking to collaborate on Big Companies work in software development
+
 - 📫 can you reach me on linkedin : https://www.linkedin.com/in/mr-ayada/  
 - or on Facebook : https://www.facebook.com/mr.ayadi1
 - thank you for Reading 
