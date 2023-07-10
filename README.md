@@ -9,8 +9,8 @@
 
 **Full Stack Developer | Software Engineer**
 
-📧 Email: ahmad.ayada@gmail.com  
-📞 Phone: +33769506158  
+📧 Email: mr.ayadi@gmail.com  
+📞 Phone: +33(7)69506158
 🏠 Address: 190 Rue Frédéric Mistral, 06560 Valbonne
 
 ---
